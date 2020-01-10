@@ -1,2 +1,2 @@
-# kicad-footprints-yk
+# kicad-footprints-ysnkhll
 My personal KiCad Footprint library.
